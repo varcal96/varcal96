@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @varcal96
+- 👋 Hi, I’m @varcal96 - leandro vargas calderon :)
 - 👀 I’m interested in software developer and  IoT Enthusiast
 - 🌱 I’m currently learning web development, movil development, IA, SQL, & 3D model
 - 💞️ I’m looking to collaborate on projects that allow me to gain experience in these areas
